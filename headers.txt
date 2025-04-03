@@ -1,0 +1,6 @@
+Intersection
+Address
+Camera Number
+Date (formatted year-month-day, for example 2023-2-26)
+Number of Violations (How many tickets were issued by that camera on that day)
+Neighborhood
