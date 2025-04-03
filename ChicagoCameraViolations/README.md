@@ -37,11 +37,11 @@ Broadway & 5th Ave,200 Broadway St,CAM002,2025-01-16,5,West Side
 
 1. **Compile the Program:**
    ```sh
-   g++ camera_violation_analysis.cpp -o camera_analysis
+   g++ main.cpp -o main
    ```
 2. **Run the Program:**
    ```sh
-   ./camera_analysis
+   ./main
    ```
 3. **Select a CSV File:** When prompted, enter the name of the CSV file to be analyzed.
 4. **Choose an Option from the Menu:**
